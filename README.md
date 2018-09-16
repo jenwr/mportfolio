@@ -3,7 +3,7 @@ Musician's portfolio
 
 This project should include a portrait by photo or drawing, bio, and feature projects. 
 
-One idea: 
+Sections: 
 * Sample work
 * Past performances
 * Arrangements, production
